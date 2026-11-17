@@ -1,0 +1,30 @@
+PAKET MINI TRY OUT TIU — PATUNGAN BIMBEL SKD
+
+ISI PAKET
+1. index.html
+   Website mini try out yang bisa dibuka langsung di browser atau diunggah ke hosting statis.
+2. GoogleSitesEmbed.html
+   Potongan HTML lengkap (CSS dan JavaScript sudah termasuk) untuk ditempel melalui fitur Embed code Google Sites.
+3. logo-patungan-bimbel-skd.webp
+   Salinan logo berukuran ringan. Logo juga sudah tertanam di dalam file HTML.
+
+CARA MEMBUKA LANGSUNG
+- Buka index.html dengan Chrome, Edge, Firefox, atau browser ponsel.
+- Klik "Mulai Try Out".
+- Durasi 18 menit dimulai setelah tombol tersebut ditekan.
+- Setelah selesai, sistem menampilkan skor, kunci jawaban, dan pembahasan.
+
+CARA MEMASANG DI GOOGLE SITES
+1. Buka halaman Google Sites yang akan digunakan.
+2. Pilih menu Sisipkan (Insert) > Sematkan (Embed).
+3. Pilih tab Kode semat (Embed code).
+4. Buka file GoogleSitesEmbed.html dengan editor teks, salin seluruh isinya, lalu tempelkan ke kotak kode semat.
+5. Klik Berikutnya/Next lalu Sisipkan/Insert.
+6. Atur lebar elemen hingga memenuhi area halaman dan sesuaikan tingginya. Jika perlu, tarik batas bawah elemen agar area ujian dan hasil nyaman dibaca.
+7. Publikasikan Google Sites.
+
+CATATAN
+- Paket ini memuat 20 soal yang ditranskripsikan dari PDF yang diberikan. Tidak ada soal tambahan.
+- Kunci dan pembahasan dihitung dari data/opsi pada PDF; sumber PDF tidak menyertakan kunci jawaban.
+- Skor latihan: 5 poin untuk setiap jawaban benar, 0 untuk jawaban salah/kosong; skor maksimum 100. Ini bukan konversi nilai resmi CAT SKD.
+- Jika Google Sites menolak kode semat karena batas panjang atau kebijakan editor, unggah index.html ke layanan hosting statis (misalnya GitHub Pages/Netlify), lalu gunakan Sisipkan > Sematkan > URL untuk memasukkan alamat website tersebut.
